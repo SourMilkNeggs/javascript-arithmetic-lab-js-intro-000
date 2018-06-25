@@ -25,5 +25,9 @@ function dec(n) {
 }
 
 function makeInt(n) {
+  
+}
 
+function preserveDecimal(n){
+  parseInt('nonsense!', 10)
 }
