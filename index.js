@@ -27,6 +27,9 @@ function dec(n) {
 function makeInt(n) {
 
 }
+function parseFloat(n) {
+parseFloat('80.126573')  
+}
 
 function preserveDecimal(n){
   parseInt('nonsense!', 10)
